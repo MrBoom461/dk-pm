@@ -123,15 +123,11 @@ stringtable,promod/destructible.csv
 
 xmodel,com_floodlight_on
 
-// By Frames
-menufile,ui_mp/scriptmenus/votemap.menu
+
+
 weapon,mp/knife_mp
 fx,trails\trail_paper
 fx,trails\trail_fire
-
-
-
-// By MrBoom
 
 material,sles_main_background
 material,sles_killcam_logo
