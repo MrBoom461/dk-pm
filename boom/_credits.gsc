@@ -38,6 +38,8 @@ main()
 	wait 0.4;
 	thread showCredit( "^5JJAgent", 1.9 );
 	wait 0.4;
+	thread showCredit( "^5ViRuS", 1.9 );
+	wait 0.4;
 	thread showCredit( "^1Developed By:", 1.9 );
 	wait 0.4;
 	thread showCredit( "^5MrBoom", 1.9 );
